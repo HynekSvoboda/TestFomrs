@@ -1,0 +1,13 @@
+G:\prg\Test_Fomr\Test_Fomr\bin\Debug\Test_Fomr.exe.config
+G:\prg\Test_Fomr\Test_Fomr\bin\Debug\Test_Fomr.exe
+G:\prg\Test_Fomr\Test_Fomr\bin\Debug\Test_Fomr.pdb
+G:\prg\Test_Fomr\Test_Fomr\obj\Debug\Test_Fomr.csproj.AssemblyReference.cache
+G:\prg\Test_Fomr\Test_Fomr\obj\Debug\Test_Fomr.Form1.resources
+G:\prg\Test_Fomr\Test_Fomr\obj\Debug\Test_Fomr.Properties.Resources.resources
+G:\prg\Test_Fomr\Test_Fomr\obj\Debug\Test_Fomr.csproj.GenerateResource.cache
+G:\prg\Test_Fomr\Test_Fomr\obj\Debug\Test_Fomr.csproj.CoreCompileInputs.cache
+G:\prg\Test_Fomr\Test_Fomr\obj\Debug\Test_Fomr.exe
+G:\prg\Test_Fomr\Test_Fomr\obj\Debug\Test_Fomr.pdb
+G:\prg\Test_Fomr\Test_Fomr\obj\Debug\Test_Fomr.NovaHra.resources
+G:\prg\Test_Fomr\Test_Fomr\obj\Debug\Test_Fomr.nastaveni.resources
+G:\prg\Test_Fomr\Test_Fomr\obj\Debug\Test_Fomr.ukoncit.resources
